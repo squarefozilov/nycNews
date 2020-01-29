@@ -20,3 +20,24 @@ In this repository, you can see source code of NYT Scraper.
 `morgan`: logs server-side requests, helping debugging
 
 `express-handlebars`: a powerful front-end builder without requiring multiple html pages
+
+
+
+## See the demo [here](https://peaceful-scrubland-60002.herokuapp.com/)
+
+## Installing
+
+To run the application locally, you will need to clone the repository to your local machine.
+
+HTTPS:
+````
+$ git clone https://github.com/jckmrrssy/GifTastic.git
+````
+SSH:
+````
+$ git clone git@github.com:jckmrrssy/GifTastic.git
+````
+Install NPM packages
+```sh
+npm install
+```
