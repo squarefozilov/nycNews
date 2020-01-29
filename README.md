@@ -35,7 +35,7 @@ $ git clone https://github.com/jckmrrssy/GifTastic.git
 ````
 SSH:
 ````
-$ git clone git@github.com:jckmrrssy/GifTastic.git
+$ git clone git@github.com:squarefozilov/nycNews.git
 ````
 Install NPM packages
 ```sh
