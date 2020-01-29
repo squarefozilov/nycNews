@@ -31,7 +31,7 @@ To run the application locally, you will need to clone the repository to your lo
 
 HTTPS:
 ````
-$ git clone https://github.com/jckmrrssy/GifTastic.git
+$ git clone https://github.com/squarefozilov/nycNews.git
 ````
 SSH:
 ````
